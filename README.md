@@ -1,0 +1,2 @@
+# script
+tentang mikrotik
